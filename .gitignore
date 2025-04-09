@@ -1,0 +1,12 @@
+.hugo_build.lock
+**/.DS_Store
+cmsg.txt
+resources
+public/
+
+# Ignore vim files:
+*~
+*.swp
+*.swo
+
+sandbox/
