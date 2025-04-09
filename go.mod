@@ -1,3 +1,3 @@
-module github.com/onetapbeyond/agency-theme-default
+module github.com/onetapbeyond/atd
 
 go 1.24.1
